@@ -31,36 +31,6 @@
 
 </div>
 
----
-
-## 💜 CSS Concepts
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Flexbox-211A2E?style=for-the-badge&logo=css3&logoColor=B57AFF" />
-<img src="https://img.shields.io/badge/CSS_Grid-211A2E?style=for-the-badge&logo=css3&logoColor=B57AFF" />
-<img src="https://img.shields.io/badge/CSS_Animations-211A2E?style=for-the-badge&logo=css3&logoColor=B57AFF" />
-<img src="https://img.shields.io/badge/Responsive_Design-211A2E?style=for-the-badge&logo=css3&logoColor=B57AFF" />
-
-</div>
-
----
-
-## 💜 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-211A2E?style=for-the-badge&logo=tailwindcss&logoColor=B57AFF" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-*Always learning. Always building. Always growing.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:211A2E,100:6D28D9&height=3&section=footer" width="100%" />
 
